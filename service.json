@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617046838529",
+    "firebase_url": "https://fire-arena-93a0b-default-rtdb.firebaseio.com",
+    "project_id": "fire-arena-93a0b",
+    "storage_bucket": "fire-arena-93a0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617046838529:android:581f0d9c0d29f1f5a2df00",
+        "android_client_info": {
+          "package_name": "Com.fire.arena.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4NQTLGSzLaGKxoIZPuGeBBbGYfLQbcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
